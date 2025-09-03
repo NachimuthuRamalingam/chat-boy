@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat-boy/static/css/main.066d40fd.css",
+    "main.js": "/chat-boy/static/js/main.7b8b6420.js",
+    "static/js/453.6bf1dfd5.chunk.js": "/chat-boy/static/js/453.6bf1dfd5.chunk.js",
+    "index.html": "/chat-boy/index.html",
+    "main.066d40fd.css.map": "/chat-boy/static/css/main.066d40fd.css.map",
+    "main.7b8b6420.js.map": "/chat-boy/static/js/main.7b8b6420.js.map",
+    "453.6bf1dfd5.chunk.js.map": "/chat-boy/static/js/453.6bf1dfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066d40fd.css",
+    "static/js/main.7b8b6420.js"
+  ]
+}
